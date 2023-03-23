@@ -1,6 +1,3 @@
-<div id="top"></div>
-
-<br />
 
 <!-- ABOUT THE PROJECT -->
 
